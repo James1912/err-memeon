@@ -38,7 +38,7 @@ class MemeOn(BotPlugin):
             "http://images6.fanpop.com/image/photos/35300000/Hannibal-Smith-the-a-team-35362783-200-200.png",
             "http://www.beingabusinesscelebrity.com/wp-content/uploads/2011/10/i-love-it-when-a-plan-comes-together-the-original-a-team.jpg",
         ],
-        "ship it":[
+        "ship it": [
             "http://i.imgur.com/fL6eNiK.jpg",
             "http://c3270052.r52.cf0.rackcdn.com/westerdam-ship-size.jpg",
             "http://welovelocalgovernment.files.wordpress.com/2011/01/ship.jpg",
@@ -92,7 +92,19 @@ class MemeOn(BotPlugin):
             "http://i.imgur.com/EAheTq8.gif",
             "http://i.imgur.com/4P9RET6.gif",
             "http://cdn.sheknows.com/articles/2014/02/Mike/SheKnows_US/1029471/GIF5.gif",
-            "http://www.cutecatgifs.com/wp-content/uploads/2014/02/soon.gif"
+            "http://www.cutecatgifs.com/wp-content/uploads/2014/02/soon.gif",
+            "http://s3-ec.buzzfed.com/static/2013-10/enhanced/webdr05/15/9/anigif_enhanced-buzz-26390-1381844163-18_preview.gif",
+            "http://s3-ec.buzzfed.com/static/2013-10/enhanced/webdr06/15/10/anigif_enhanced-buzz-1376-1381846217-0.gif",
+            "http://s3-ec.buzzfed.com/static/2013-10/enhanced/webdr06/15/10/anigif_enhanced-buzz-29111-1381845968-0.gif",
+            "http://s3-ec.buzzfed.com/static/2013-10/enhanced/webdr02/15/9/anigif_enhanced-buzz-19667-1381844937-10.gif",
+            "http://s3-ec.buzzfed.com/static/2013-10/enhanced/webdr06/15/9/anigif_enhanced-buzz-18774-1381844645-6.gif",
+            "http://s3-ec.buzzfed.com/static/2013-10/enhanced/webdr06/15/9/anigif_enhanced-buzz-25158-1381844793-0.gif",
+            "http://s3-ec.buzzfed.com/static/2013-10/enhanced/webdr05/15/9/anigif_enhanced-buzz-26358-1381845043-13.gif",
+            "http://s3-ec.buzzfed.com/static/2013-10/enhanced/webdr03/15/10/anigif_enhanced-buzz-11864-1381846346-0.gif",
+            "http://s3-ec.buzzfed.com/static/2013-10/enhanced/webdr02/15/10/anigif_enhanced-buzz-19659-1381845602-0.gif",
+            "http://s3-ec.buzzfed.com/static/2013-10/enhanced/webdr01/15/10/anigif_enhanced-buzz-27162-1381845926-2.gif",
+            "http://s3-ec.buzzfed.com/static/2013-10/enhanced/webdr03/15/10/anigif_enhanced-buzz-11980-1381846269-1.gif",
+            "http://s3-ec.buzzfed.com/static/2013-10/enhanced/webdr01/15/10/anigif_enhanced-buzz-27208-1381845845-0.gif"
         ],
         "like a boss": [
             "http://upload.wikimedia.org/wikipedia/commons/4/4d/Bruce_Springsteen_1988.jpg",
